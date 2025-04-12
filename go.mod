@@ -1,6 +1,6 @@
 module github.com/11me/binance-api
 
-go 1.20
+go 1.23.1
 
 require (
 	github.com/go-faster/errors v0.6.1
