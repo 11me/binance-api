@@ -4,7 +4,7 @@ import (
 	"math/rand"
 
 	"github.com/segmentio/encoding/json"
-	"github.com/xenking/binance-api"
+	"github.com/11me/binance-api"
 )
 
 type mockedOrderTestSuite struct {

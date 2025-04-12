@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/xenking/binance-api"
-	"github.com/xenking/binance-api/ws"
+	"github.com/11me/binance-api"
+	"github.com/11me/binance-api/ws"
 )
 
 type tickerTestSuite struct {

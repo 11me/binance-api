@@ -1,6 +1,6 @@
 package binance_test
 
-import "github.com/xenking/binance-api"
+import "github.com/11me/binance-api"
 
 type tickerTestSuite struct {
 	baseTestSuite

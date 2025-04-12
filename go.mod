@@ -1,4 +1,4 @@
-module github.com/xenking/binance-api
+module github.com/11me/binance-api
 
 go 1.20
 

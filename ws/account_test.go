@@ -11,8 +11,8 @@ import (
 	"github.com/gobwas/ws/wsutil"
 	"github.com/segmentio/encoding/json"
 
-	"github.com/xenking/binance-api"
-	"github.com/xenking/binance-api/ws"
+	"github.com/11me/binance-api"
+	"github.com/11me/binance-api/ws"
 )
 
 type mockedClient struct {

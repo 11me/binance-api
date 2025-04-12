@@ -1,7 +1,7 @@
 package ws
 
 import (
-	"github.com/xenking/binance-api"
+	"github.com/11me/binance-api"
 )
 
 // UpdateType represents type of account update event

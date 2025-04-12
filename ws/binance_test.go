@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/suite"
 
-	"github.com/xenking/binance-api/ws"
+	"github.com/11me/binance-api/ws"
 )
 
 func TestWSClient(t *testing.T) {

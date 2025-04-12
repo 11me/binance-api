@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
-	"github.com/xenking/binance-api"
+	"github.com/11me/binance-api"
 )
 
 func TestClient(t *testing.T) {

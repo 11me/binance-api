@@ -7,7 +7,7 @@ import (
 
 	"github.com/gobwas/ws"
 
-	"github.com/xenking/binance-api"
+	"github.com/11me/binance-api"
 )
 
 const DefaultStreamPath = "wss://stream.binance.com:9443/ws/"
